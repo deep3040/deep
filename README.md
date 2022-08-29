@@ -23,4 +23,4 @@ Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
 
 
 #                                        📊 Statistics:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep3040&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep3040&count_private=true)](https://github.com/deep3040/github-readme-stats)
