@@ -19,8 +19,8 @@ Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
 
 👨‍💻 Freelancer
 
-1st Prize in Mental Health Track Of MLSC TIET
+🥇1st Prize in Mental Health Track Of MLSC TIET
 
 
 #                                        📊 Statistics:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep3040)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep3040&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
