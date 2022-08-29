@@ -24,3 +24,5 @@ Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
 
 #                                        📊 Statistics:
 [![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep3040&count_private=true&show_icons=true&theme=radical)](https://github.com/deep3040/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep3040)](https://github.com/deep3040/github-readme-stats)
